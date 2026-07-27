@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "download": "https://raw.githubusercontent.com/X-3nCrypt/BINGMILI/main/index.php",
+  "download": "https://raw.githubusercontent.com/X-3nCrypt/MiliCode-FileManager/refs/heads/main/index.php",
   "notes": "Baseline self-update release",
   "min_php": "5.4.0"
 }
